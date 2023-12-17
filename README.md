@@ -41,3 +41,13 @@ Note: Savor the delightful timeout experience of Ngrok, and simply restart the s
 The website awaits your presence at MunchMaster-Indian_Eatery. [MunchMaster-Indian_Eatery website](https://darpanitadept.github.io/Indian_eatery/)
 
 ## Adding Visual Spice 📸
+
+<img width="1512" alt="Screenshot 2023-12-17 at 2 12 16 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/e6c40944-bde0-43fd-9427-58c94ba1e66f">
+<img width="358" alt="Screenshot 2023-12-17 at 2 18 14 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/64ad0fda-ca70-4c98-bce9-f3366381ca07">
+<img width="360" alt="Screenshot 2023-12-17 at 2 18 38 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/6dec58be-0dc1-442e-926f-29d8b161c35f">
+<img width="354" alt="Screenshot 2023-12-17 at 2 18 51 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/4f6cefc3-9b10-4458-8edf-c3ee34556f90">
+<img width="358" alt="Screenshot 2023-12-17 at 2 19 02 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/ad13b2b9-0235-4505-83a6-c2768a36f1bc">
+<img width="357" alt="Screenshot 2023-12-17 at 2 19 12 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/a3f57db5-2a7e-469b-9aa8-85e3e81ab7cb">
+<img width="354" alt="Screenshot 2023-12-17 at 2 19 23 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/0c327393-b1f5-4d1f-8943-1a64013daa33">
+<img width="359" alt="Screenshot 2023-12-17 at 2 19 36 AM" src="https://github.com/darpanITadept/MunchMaster-Chatbot/assets/112990024/aaf2a699-9e22-4086-a7a9-3756f6ab4056">
+
