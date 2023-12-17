@@ -40,3 +40,4 @@ Note: Savor the delightful timeout experience of Ngrok, and simply restart the s
 ## The Grand Banquet 🎉
 The website awaits your presence at MunchMaster-Indian_Eatery. [MunchMaster-Indian_Eatery website](https://darpanitadept.github.io/Indian_eatery/)
 
+## Adding Visual Spice 📸
